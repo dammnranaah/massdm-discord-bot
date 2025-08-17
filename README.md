@@ -37,8 +37,8 @@ Example usage:
 1. **Clone or download the bot code**
 
 ```bash
-git clone https://github.com/yourusername/massdm-bot.git
-cd massdm-bot
+git clone https://github.com/dammnranaah/massdm-discord-bot
+cd massdm-discord-bot
 ```
 
 2. **Install dependencies**
